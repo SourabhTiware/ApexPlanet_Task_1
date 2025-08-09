@@ -1,0 +1,149 @@
+/* Body */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+  width: 100%;
+  height: 100%;
+}
+
+/* Header Section */
+.head {
+  background-color: #007B83;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.head h1{
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    margin:2rem;
+}
+.objective{
+    margin: 2rem;
+
+    border: 1px solid black;
+    border-radius: 2rem;
+}
+.objective h2{
+    padding: 0 0 0 5rem;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+}
+
+.objective p{
+    padding-left: 7rem;
+    background-color: bisque;
+}
+
+.Understand{
+    background-color: rgb(106, 183, 211);
+    border-radius: 2rem;
+    padding-bottom: 1rem;
+}
+
+#headid{
+    text-align: center;
+    line-height: 3rem;
+}
+
+.Understand h3{
+    padding-left: 4rem;
+}
+
+.html{
+    padding-left: 4rem;
+    /* border: 3px solid violet; */
+    margin: 3rem;
+
+
+}
+
+#htmlHead{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+    /* gap:0.3rem; */
+
+}
+
+#htmlHead h3{
+    padding-left: 1rem;
+}
+
+#htmlHead img{
+    margin: 0;
+}
+
+.html p{
+    height: 8.5rem;
+    width: 60rem;
+    padding-left: 6rem;
+    padding-top: 1rem;
+
+    border: 2px outset #d83084;
+    border-radius: 15% 15%;
+    background-color: rgba(19, 230, 89, 0.652);
+    color: rgba(0, 0, 0, 0.956);
+}
+
+.higherImg{
+    margin: 2rem;
+    padding: 0.3rem;
+    background-color: rgba(102, 239, 244, 0.373);
+    border-radius: 10% 5%;
+}
+
+.higherImg h3{
+    padding-left: 2rem;
+    padding-top: 1rem   ;
+}
+
+
+.Images{
+    height: 30rem;
+    width: 78rem;
+    margin-left: 6rem;
+
+    /* background-color: red; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#img{
+    height: 18rem;
+    width: 25rem;
+    border: 2px solid black;
+    border-radius: 1rem;
+}
+
+footer{
+    margin: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: gray;
+    color: white;
+
+    border-radius: 2rem;
+
+
+
+
+}
+
