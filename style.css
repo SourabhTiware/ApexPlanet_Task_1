@@ -129,6 +129,19 @@ main{
     border-radius: 1rem;
 }
 
+#btn{
+
+    background-color: #830025;
+    color: white;
+    width: 5rem;
+    height: 2rem;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin-left: 50%;
+    margin-bottom: 2rem;
+}
+
 footer{
     margin: 1rem;
     font-size: 2rem;
@@ -141,9 +154,5 @@ footer{
     color: white;
 
     border-radius: 2rem;
-
-
-
-
 }
 
